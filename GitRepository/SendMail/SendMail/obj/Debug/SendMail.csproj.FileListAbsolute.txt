@@ -1,0 +1,12 @@
+c:\users\mp\documents\visual studio 2012\Projects\SendMail\SendMail\bin\Debug\SendMail.exe.config
+c:\users\mp\documents\visual studio 2012\Projects\SendMail\SendMail\obj\Debug\SendMail.csprojResolveAssemblyReference.cache
+c:\users\mp\documents\visual studio 2012\Projects\SendMail\SendMail\bin\Debug\SendMail.exe
+c:\users\mp\documents\visual studio 2012\Projects\SendMail\SendMail\bin\Debug\SendMail.pdb
+c:\users\mp\documents\visual studio 2012\Projects\SendMail\SendMail\obj\Debug\SendMail.exe
+c:\users\mp\documents\visual studio 2012\Projects\SendMail\SendMail\obj\Debug\SendMail.pdb
+C:\Users\MP\Desktop\Pulpit 27.05.2015\SendMail\SendMail\bin\Debug\SendMail.exe.config
+C:\Users\MP\Desktop\Pulpit 27.05.2015\SendMail\SendMail\obj\Debug\SendMail.exe
+C:\Users\MP\Desktop\Pulpit 27.05.2015\SendMail\SendMail\obj\Debug\SendMail.pdb
+C:\Users\MP\Desktop\Pulpit 27.05.2015\SendMail\SendMail\bin\Debug\SendMail.exe
+C:\Users\MP\Desktop\Pulpit 27.05.2015\SendMail\SendMail\bin\Debug\SendMail.pdb
+C:\Users\MP\Desktop\Pulpit 27.05.2015\SendMail\SendMail\obj\Debug\SendMail.csprojResolveAssemblyReference.cache
